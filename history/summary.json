@@ -1,19 +1,11 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Rich Holman",
+    "url": "https://www.richholman.com",
+    "slug": "rich-holman",
     "status": "up",
     "uptime": "100.00%",
-    "time": 47
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 28
+    "time": 282
   },
   {
     "name": "Dogwonder",
@@ -21,6 +13,6 @@
     "slug": "dogwonder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 276
+    "time": 325
   }
 ]
