@@ -4,8 +4,8 @@
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
-    "time": 88
+    "uptime": "100.00%",
+    "time": 32
   },
   {
     "name": "Wikipedia",
@@ -13,30 +13,22 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 114
+    "time": 11
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Dogwonder",
+    "url": "https://dogwonder.co.uk",
+    "slug": "dogwonder",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 356
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
+    "uptime": "100.00%",
+    "time": 546
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "time": 47
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]
