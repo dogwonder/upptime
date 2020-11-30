@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 44
+    "time": 47
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 30
+    "time": 28
   },
   {
     "name": "Dogwonder",
@@ -21,14 +21,6 @@
     "slug": "dogwonder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 370
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "time": 276
   }
 ]
