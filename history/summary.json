@@ -19,8 +19,8 @@
     "name": "ONE",
     "url": "https://m.one.org/",
     "slug": "one",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 92
+    "status": "down",
+    "uptime": "99.95%",
+    "time": 119
   }
 ]
