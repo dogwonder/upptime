@@ -5,7 +5,7 @@
     "slug": "rich-holman",
     "status": "up",
     "uptime": "100.00%",
-    "time": 223
+    "time": 280
   },
   {
     "name": "Dogwonder",
@@ -13,6 +13,14 @@
     "slug": "dogwonder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 343
+    "time": 381
+  },
+  {
+    "name": "ONE",
+    "url": "https://m.one.org/",
+    "slug": "one",
+    "status": "up",
+    "uptime": "92.59%",
+    "time": 442
   }
 ]
