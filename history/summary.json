@@ -5,7 +5,15 @@
     "slug": "rich-holman",
     "status": "up",
     "uptime": "100.00%",
-    "time": 255
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 264,
+    "timeDay": 328,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264
   },
   {
     "name": "Dogwonder",
@@ -13,7 +21,15 @@
     "slug": "dogwonder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 353
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 375,
+    "timeDay": 388,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375
   },
   {
     "name": "Seasonal Today",
@@ -21,7 +37,15 @@
     "slug": "seasonal-today",
     "status": "up",
     "uptime": "100.00%",
-    "time": 115
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 164,
+    "timeDay": 141,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164
   },
   {
     "name": "Juckwonder",
@@ -29,7 +53,15 @@
     "slug": "juckwonder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 137
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 115,
+    "timeDay": 85,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115
   },
   {
     "name": "Phonebox Photos",
@@ -37,7 +69,15 @@
     "slug": "phonebox-photos",
     "status": "up",
     "uptime": "100.00%",
-    "time": 218
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 100,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151
   },
   {
     "name": "Tropical Isles",
@@ -45,7 +85,15 @@
     "slug": "tropical-isles",
     "status": "up",
     "uptime": "100.00%",
-    "time": 670
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 582,
+    "timeDay": 577,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582
   },
   {
     "name": "ccco.bike",
@@ -53,7 +101,15 @@
     "slug": "ccco-bike",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2176
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2218,
+    "timeDay": 2287,
+    "timeWeek": 2218,
+    "timeMonth": 2218,
+    "timeYear": 2218
   },
   {
     "name": "Greenhill 50",
@@ -61,6 +117,14 @@
     "slug": "greenhill-50",
     "status": "up",
     "uptime": "100.00%",
-    "time": 149
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 139,
+    "timeDay": 102,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139
   }
 ]
