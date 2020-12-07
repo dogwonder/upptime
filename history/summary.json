@@ -10,7 +10,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 308,
+    "timeDay": 275,
     "timeWeek": 277,
     "timeMonth": 277,
     "timeYear": 277
@@ -26,7 +26,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 431,
+    "timeDay": 407,
     "timeWeek": 408,
     "timeMonth": 408,
     "timeYear": 408
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 220,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173
+    "time": 180,
+    "timeDay": 215,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180
   },
   {
     "name": "Juckwonder",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 150,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131
+    "time": 139,
+    "timeDay": 180,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139
   },
   {
     "name": "Phonebox Photos",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 87,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140
+    "time": 142,
+    "timeDay": 148,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142
   },
   {
     "name": "Tropical Isles",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 533,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595
+    "time": 586,
+    "timeDay": 537,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586
   },
   {
     "name": "ccco.bike",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2110,
-    "timeDay": 1965,
-    "timeWeek": 2110,
-    "timeMonth": 2110,
-    "timeYear": 2110
+    "time": 2073,
+    "timeDay": 1891,
+    "timeWeek": 2073,
+    "timeMonth": 2073,
+    "timeYear": 2073
   },
   {
     "name": "Greenhill 50",
@@ -121,10 +121,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 156,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139
+    "time": 156,
+    "timeDay": 240,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156
   }
 ]
