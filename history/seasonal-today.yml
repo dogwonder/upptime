@@ -1,7 +1,7 @@
 url: https://seasonal.today/
-status: up
-code: 200
-responseTime: 146
-lastUpdated: 2021-01-11T23:34:57.595Z
+status: down
+code: 502
+responseTime: 170
+lastUpdated: 2021-01-12T15:47:20.373Z
 startTime: Wed Dec 02 2020 14:15:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
