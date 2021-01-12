@@ -40,18 +40,20 @@
     "url": "https://seasonal.today/",
     "icon": "https://favicons.githubusercontent.com/seasonal.today",
     "slug": "seasonal-today",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 146,
-    "timeWeek": 139,
-    "timeMonth": 147,
+    "timeDay": 158,
+    "timeWeek": 143,
+    "timeMonth": 148,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-12": 0
+    }
   },
   {
     "name": "Juckwonder",
