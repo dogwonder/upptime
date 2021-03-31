@@ -5,22 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.richholman.com",
     "slug": "rich-holman",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 268,
-    "timeWeek": 318,
-    "timeMonth": 338,
+    "timeDay": 298,
+    "timeWeek": 309,
+    "timeMonth": 336,
     "timeYear": 291,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dogwonder",
@@ -28,22 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/dogwonder.co.uk",
     "slug": "dogwonder",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
-    "time": 485,
-    "timeDay": 487,
-    "timeWeek": 590,
-    "timeMonth": 514,
-    "timeYear": 485,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "uptimeYear": "100.00%",
+    "time": 486,
+    "timeDay": 557,
+    "timeWeek": 595,
+    "timeMonth": 516,
+    "timeYear": 486,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DGW.ltd",
@@ -51,22 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/dgw.ltd",
     "slug": "dgw-ltd",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.28%",
-    "time": 399,
-    "timeDay": 359,
-    "timeWeek": 356,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "uptimeYear": "100.00%",
+    "time": 394,
+    "timeDay": 243,
+    "timeWeek": 341,
+    "timeMonth": 394,
+    "timeYear": 394,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seasonal Today",
@@ -79,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 153,
-    "timeDay": 99,
-    "timeWeek": 167,
-    "timeMonth": 162,
-    "timeYear": 153,
+    "time": 154,
+    "timeDay": 221,
+    "timeWeek": 173,
+    "timeMonth": 164,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2021-01-12": 26
     }
@@ -94,22 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/juckwonder.com",
     "slug": "juckwonder",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
-    "time": 152,
-    "timeDay": 111,
-    "timeWeek": 195,
-    "timeMonth": 171,
-    "timeYear": 152,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "uptimeYear": "100.00%",
+    "time": 153,
+    "timeDay": 229,
+    "timeWeek": 194,
+    "timeMonth": 173,
+    "timeYear": 153,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Phonebox Photos",
@@ -117,22 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/phonebox.photos",
     "slug": "phonebox-photos",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
-    "time": 158,
-    "timeDay": 86,
+    "uptimeYear": "100.00%",
+    "time": 159,
+    "timeDay": 286,
     "timeWeek": 177,
-    "timeMonth": 160,
-    "timeYear": 158,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "timeMonth": 164,
+    "timeYear": 159,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tropical Isles",
@@ -140,22 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/tropicalislescarnival.org",
     "slug": "tropical-isles",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
-    "time": 657,
-    "timeDay": 500,
-    "timeWeek": 632,
-    "timeMonth": 623,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "uptimeYear": "100.00%",
+    "time": 653,
+    "timeDay": 263,
+    "timeWeek": 583,
+    "timeMonth": 612,
+    "timeYear": 653,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ccco.bike",
@@ -163,22 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/ccco.bike",
     "slug": "ccco-bike",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
-    "time": 2039,
-    "timeDay": 2002,
-    "timeWeek": 2097,
-    "timeMonth": 2000,
-    "timeYear": 2039,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "uptimeYear": "100.00%",
+    "time": 2038,
+    "timeDay": 1850,
+    "timeWeek": 2063,
+    "timeMonth": 1995,
+    "timeYear": 2038,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Greenhill 50",
@@ -186,21 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/greenhill50.com",
     "slug": "greenhill-50",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 92,
-    "timeWeek": 173,
-    "timeMonth": 160,
+    "timeDay": 149,
+    "timeWeek": 161,
+    "timeMonth": 159,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2021-01-12": 26,
-      "2020-12-02": 17,
-      "2020-12-01": 703,
-      "2020-11-30": 781
-    }
+    "dailyMinutesDown": {}
   }
 ]
