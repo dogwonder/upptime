@@ -6,9 +6,9 @@
     "slug": "rich-holman",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 252,
@@ -16,7 +16,7 @@
     "timeMonth": 294,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 10
     }
   },
   {
@@ -60,18 +60,19 @@
     "url": "https://seasonal.today/",
     "icon": "https://favicons.githubusercontent.com/seasonal.today",
     "slug": "seasonal-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 155,
-    "timeDay": 103,
-    "timeWeek": 163,
-    "timeMonth": 137,
+    "timeDay": 109,
+    "timeWeek": 157,
+    "timeMonth": 136,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2021-06-08": 0,
       "2021-01-12": 26
     }
   },
@@ -82,9 +83,9 @@
     "slug": "juckwonder",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 133,
@@ -92,7 +93,7 @@
     "timeMonth": 171,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 10
     }
   },
   {
@@ -102,9 +103,9 @@
     "slug": "phonebox-photos",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 130,
@@ -112,7 +113,7 @@
     "timeMonth": 183,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 10
     }
   },
   {
@@ -158,9 +159,9 @@
     "slug": "greenhill-50",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 111,
@@ -168,7 +169,7 @@
     "timeMonth": 139,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 10
     }
   }
 ]
