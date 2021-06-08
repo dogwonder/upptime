@@ -4,18 +4,20 @@
     "url": "https://www.richholman.com",
     "icon": "https://favicons.githubusercontent.com/www.richholman.com",
     "slug": "rich-holman",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 213,
-    "timeWeek": 327,
+    "timeDay": 252,
+    "timeWeek": 323,
     "timeMonth": 294,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Dogwonder",
@@ -78,36 +80,40 @@
     "url": "https://juckwonder.com/",
     "icon": "https://favicons.githubusercontent.com/juckwonder.com",
     "slug": "juckwonder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 119,
-    "timeWeek": 203,
-    "timeMonth": 172,
+    "timeDay": 133,
+    "timeWeek": 196,
+    "timeMonth": 171,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Phonebox Photos",
     "url": "http://phonebox.photos/",
     "icon": "https://favicons.githubusercontent.com/phonebox.photos",
     "slug": "phonebox-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 77,
-    "timeWeek": 232,
+    "timeDay": 130,
+    "timeWeek": 226,
     "timeMonth": 183,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Tropical Isles",
@@ -150,17 +156,19 @@
     "url": "https://greenhill50.com/",
     "icon": "https://favicons.githubusercontent.com/greenhill50.com",
     "slug": "greenhill-50",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 87,
-    "timeWeek": 166,
+    "timeDay": 111,
+    "timeWeek": 162,
     "timeMonth": 139,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
