@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 279,
-    "timeDay": 327,
-    "timeWeek": 269,
-    "timeMonth": 275,
-    "timeYear": 279,
+    "time": 280,
+    "timeDay": 399,
+    "timeWeek": 276,
+    "timeMonth": 281,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 493,
-    "timeWeek": 448,
-    "timeMonth": 455,
+    "timeDay": 454,
+    "timeWeek": 419,
+    "timeMonth": 443,
     "timeYear": 464,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 336,
-    "timeWeek": 289,
+    "timeDay": 258,
+    "timeWeek": 265,
     "timeMonth": 290,
     "timeYear": 312,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 106,
-    "timeWeek": 119,
-    "timeMonth": 131,
+    "timeDay": 156,
+    "timeWeek": 114,
+    "timeMonth": 133,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2021-01-12": 26
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 118,
-    "timeWeek": 157,
-    "timeMonth": 145,
+    "timeDay": 219,
+    "timeWeek": 135,
+    "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2021-06-08": 23
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 118,
-    "timeWeek": 158,
-    "timeMonth": 158,
+    "timeDay": 200,
+    "timeWeek": 151,
+    "timeMonth": 163,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2021-06-08": 23
@@ -121,18 +121,19 @@
     "icon": "https://favicons.githubusercontent.com/tropicalislescarnival.org",
     "slug": "tropical-isles",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "33.53%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "99.79%",
     "time": 559,
-    "timeDay": 651,
-    "timeWeek": 539,
-    "timeMonth": 536,
+    "timeDay": 0,
+    "timeWeek": 561,
+    "timeMonth": 545,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-14": 6,
+      "2021-10-13": 951
     }
   },
   {
@@ -147,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1641,
-    "timeDay": 1550,
-    "timeWeek": 1553,
-    "timeMonth": 1524,
+    "timeDay": 1728,
+    "timeWeek": 1549,
+    "timeMonth": 1529,
     "timeYear": 1641,
     "dailyMinutesDown": {}
   },
@@ -165,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 98,
-    "timeWeek": 116,
-    "timeMonth": 119,
+    "timeDay": 179,
+    "timeWeek": 109,
+    "timeMonth": 122,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2021-06-08": 23
