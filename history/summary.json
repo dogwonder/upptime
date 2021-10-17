@@ -42,10 +42,10 @@
     "url": "https://dgw.ltd",
     "icon": "https://favicons.githubusercontent.com/dgw.ltd",
     "slug": "dgw-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
@@ -53,16 +53,18 @@
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-17": 1
+    }
   },
   {
     "name": "Seasonal Today",
     "url": "https://seasonal.today/",
     "icon": "https://favicons.githubusercontent.com/seasonal.today",
     "slug": "seasonal-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -72,6 +74,7 @@
     "timeMonth": 132,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2021-10-17": 0,
       "2021-01-12": 26
     }
   },
