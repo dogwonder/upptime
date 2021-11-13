@@ -24,10 +24,10 @@
     "url": "https://dogwonder.co.uk",
     "icon": "https://favicons.githubusercontent.com/dogwonder.co.uk",
     "slug": "dogwonder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
@@ -35,17 +35,19 @@
     "timeWeek": 630,
     "timeMonth": 478,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 1
+    }
   },
   {
     "name": "DGW.ltd",
     "url": "https://dgw.ltd",
     "icon": "https://favicons.githubusercontent.com/dgw.ltd",
     "slug": "dgw-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
@@ -53,7 +55,9 @@
     "timeWeek": 398,
     "timeMonth": 314,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 1
+    }
   },
   {
     "name": "Seasonal Today",
@@ -120,11 +124,11 @@
     "url": "https://tropicalislescarnival.org",
     "icon": "https://favicons.githubusercontent.com/tropicalislescarnival.org",
     "slug": "tropical-isles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.38%",
     "time": 558,
     "timeDay": 609,
@@ -132,6 +136,7 @@
     "timeMonth": 554,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2021-11-13": 1,
       "2021-10-15": 697,
       "2021-10-14": 1440,
       "2021-10-13": 951
@@ -142,9 +147,9 @@
     "url": "https://ccco.bike/",
     "icon": "https://favicons.githubusercontent.com/ccco.bike",
     "slug": "ccco-bike",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +158,9 @@
     "timeWeek": 3273,
     "timeMonth": 2037,
     "timeYear": 1676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 0
+    }
   },
   {
     "name": "Greenhill 50",
