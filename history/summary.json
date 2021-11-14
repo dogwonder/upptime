@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 176,
-    "timeWeek": 293,
-    "timeMonth": 284,
+    "timeDay": 215,
+    "timeWeek": 287,
+    "timeMonth": 278,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2021-06-08": 23
@@ -26,18 +26,16 @@
     "slug": "dogwonder",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 404,
-    "timeWeek": 605,
-    "timeMonth": 476,
-    "timeYear": 465,
-    "dailyMinutesDown": {
-      "2021-11-13": 7
-    }
+    "time": 464,
+    "timeDay": 364,
+    "timeWeek": 454,
+    "timeMonth": 471,
+    "timeYear": 464,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DGW.ltd",
@@ -46,18 +44,16 @@
     "slug": "dgw-ltd",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 372,
-    "timeWeek": 407,
-    "timeMonth": 319,
-    "timeYear": 313,
-    "dailyMinutesDown": {
-      "2021-11-13": 7
-    }
+    "time": 312,
+    "timeDay": 298,
+    "timeWeek": 363,
+    "timeMonth": 315,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seasonal Today",
@@ -71,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 187,
-    "timeWeek": 186,
-    "timeMonth": 142,
+    "timeDay": 176,
+    "timeWeek": 190,
+    "timeMonth": 143,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2021-01-12": 26
@@ -91,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 78,
-    "timeWeek": 159,
-    "timeMonth": 153,
+    "timeDay": 87,
+    "timeWeek": 145,
+    "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2021-06-08": 23
@@ -111,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 295,
-    "timeWeek": 231,
-    "timeMonth": 202,
+    "timeDay": 342,
+    "timeWeek": 234,
+    "timeMonth": 207,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2021-06-08": 23
@@ -126,17 +122,16 @@
     "slug": "tropical-isles",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.38%",
     "time": 559,
-    "timeDay": 628,
-    "timeWeek": 525,
-    "timeMonth": 557,
+    "timeDay": 673,
+    "timeWeek": 548,
+    "timeMonth": 562,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2021-11-13": 7,
       "2021-10-15": 697,
       "2021-10-14": 1440,
       "2021-10-13": 951
@@ -149,18 +144,16 @@
     "slug": "ccco-bike",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1678,
-    "timeDay": 6990,
-    "timeWeek": 3145,
-    "timeMonth": 2043,
-    "timeYear": 1678,
-    "dailyMinutesDown": {
-      "2021-11-13": 6
-    }
+    "time": 1679,
+    "timeDay": 2059,
+    "timeWeek": 3092,
+    "timeMonth": 2048,
+    "timeYear": 1679,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Greenhill 50",
@@ -174,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 66,
-    "timeWeek": 129,
-    "timeMonth": 123,
+    "timeDay": 87,
+    "timeWeek": 125,
+    "timeMonth": 120,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2021-06-08": 23
