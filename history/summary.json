@@ -24,19 +24,19 @@
     "url": "https://dogwonder.co.uk",
     "icon": "https://favicons.githubusercontent.com/dogwonder.co.uk",
     "slug": "dogwonder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 241,
-    "timeWeek": 312,
-    "timeMonth": 360,
-    "timeYear": 432,
+    "time": 445,
+    "timeDay": 203,
+    "timeWeek": 290,
+    "timeMonth": 352,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2022-04-21": 14
+      "2022-04-21": 0
     }
   },
   {
@@ -46,18 +46,16 @@
     "slug": "dgw-ltd",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 398,
     "timeWeek": 393,
     "timeMonth": 316,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2022-04-21": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Seasonal Today",
@@ -124,10 +122,10 @@
     "icon": "https://favicons.githubusercontent.com/tropicalislescarnival.org",
     "slug": "tropical-isles",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 546,
     "timeDay": 555,
@@ -135,7 +133,6 @@
     "timeMonth": 503,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2022-04-21": 14,
       "2021-10-15": 697,
       "2021-10-14": 1440,
       "2021-10-13": 951
@@ -148,18 +145,16 @@
     "slug": "ccco-bike",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1611,
     "timeDay": 925,
     "timeWeek": 1219,
     "timeMonth": 1450,
     "timeYear": 1484,
-    "dailyMinutesDown": {
-      "2022-04-21": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Greenhill 50",
