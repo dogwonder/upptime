@@ -24,19 +24,19 @@
     "url": "https://dogwonder.co.uk",
     "icon": "https://favicons.githubusercontent.com/dogwonder.co.uk",
     "slug": "dogwonder",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 203,
-    "timeWeek": 290,
-    "timeMonth": 352,
-    "timeYear": 431,
+    "time": 446,
+    "timeDay": 298,
+    "timeWeek": 325,
+    "timeMonth": 361,
+    "timeYear": 432,
     "dailyMinutesDown": {
-      "2022-04-21": 0
+      "2022-04-21": 12
     }
   },
   {
