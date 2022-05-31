@@ -10,12 +10,12 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */2 * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
 jobs:
-  release:
+  build-and-deploy:
     name: Check status
     runs-on: ubuntu-18.04
     steps:

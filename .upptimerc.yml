@@ -6,18 +6,14 @@ repo: upptime # Your Github repository name
 sites:
   - name: Rich Holman
     url: https://www.richholman.com
-  - name: Dogwonder
-    url: https://dogwonder.co.uk
-  - name: DGW.ltd
-    url: https://dgw.ltd
+  - name: DGW.ltd - WordPress
+    url: https://wp.dgw.ltd
   - name: Seasonal Today
     url: https://seasonal.today/
   - name: Juckwonder 
-    url: https://juckwonder.com/
+    url: https://njk.dgw.ltd
   - name: Phonebox Photos
     url: http://phonebox.photos/
-  - name: Tropical Isles
-    url: https://tropicalislescarnival.org
   - name: ccco.bike
     url: https://ccco.bike/
   - name: Greenhill 50
