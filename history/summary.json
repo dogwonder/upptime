@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 464,
-    "timeWeek": 325,
-    "timeMonth": 291,
+    "timeDay": 397,
+    "timeWeek": 363,
+    "timeMonth": 292,
     "timeYear": 265,
-    "dailyMinutesDown": {
-      "2021-06-08": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DGW.ltd - WordPress",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 369,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 437,
+    "timeDay": 232,
+    "timeWeek": 451,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 171,
-    "timeWeek": 165,
-    "timeMonth": 195,
+    "timeDay": 312,
+    "timeWeek": 179,
+    "timeMonth": 199,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -61,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/njk.dgw.ltd",
     "slug": "juckwonder",
     "status": "down",
-    "uptime": "98.28%",
+    "uptime": "98.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.88%",
-    "uptimeMonth": "68.80%",
-    "uptimeYear": "97.40%",
-    "time": 148,
-    "timeDay": 169,
-    "timeWeek": 226,
-    "timeMonth": 175,
-    "timeYear": 142,
+    "uptimeWeek": "7.01%",
+    "uptimeMonth": "65.52%",
+    "uptimeYear": "97.12%",
+    "time": 149,
+    "timeDay": 630,
+    "timeWeek": 302,
+    "timeMonth": 186,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-06-07": 9,
+      "2022-06-08": 10,
+      "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
@@ -83,8 +82,7 @@
       "2022-05-30": 1440,
       "2022-05-29": 1440,
       "2022-05-28": 1440,
-      "2022-05-27": 857,
-      "2021-06-08": 23
+      "2022-05-27": 857
     }
   },
   {
@@ -99,13 +97,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 410,
-    "timeWeek": 268,
-    "timeMonth": 293,
-    "timeYear": 202,
+    "timeDay": 194,
+    "timeWeek": 252,
+    "timeMonth": 277,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2021-12-07": 67,
-      "2021-06-08": 23
+      "2021-12-07": 67
     }
   },
   {
@@ -119,10 +116,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 1412,
-    "timeWeek": 1432,
-    "timeMonth": 1490,
+    "time": 1551,
+    "timeDay": 1348,
+    "timeWeek": 1467,
+    "timeMonth": 1481,
     "timeYear": 1497,
     "dailyMinutesDown": {}
   },
@@ -138,12 +135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 220,
-    "timeWeek": 164,
-    "timeMonth": 173,
+    "timeDay": 154,
+    "timeWeek": 182,
+    "timeMonth": 164,
     "timeYear": 125,
-    "dailyMinutesDown": {
-      "2021-06-08": 23
-    }
+    "dailyMinutesDown": {}
   }
 ]
