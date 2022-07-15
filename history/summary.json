@@ -4,19 +4,19 @@
     "url": "https://www.richholman.com",
     "icon": "https://favicons.githubusercontent.com/www.richholman.com",
     "slug": "rich-holman",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 7788,
-    "timeWeek": 2130,
-    "timeMonth": 790,
+    "timeDay": 5320,
+    "timeWeek": 1936,
+    "timeMonth": 778,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 7
     }
   },
   {
@@ -66,7 +66,7 @@
     "uptime": "94.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.91%",
+    "uptimeMonth": "51.93%",
     "uptimeYear": "90.98%",
     "time": 152,
     "timeDay": 197,
