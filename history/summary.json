@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 275,
-    "timeWeek": 382,
+    "timeDay": 407,
+    "timeWeek": 363,
     "timeMonth": 304,
-    "timeYear": 315,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 417,
-    "timeDay": 152,
-    "timeWeek": 251,
-    "timeMonth": 332,
-    "timeYear": 417,
+    "time": 416,
+    "timeDay": 362,
+    "timeWeek": 265,
+    "timeMonth": 340,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2022-07-29": 28
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 159,
-    "timeDay": 284,
-    "timeWeek": 203,
-    "timeMonth": 203,
+    "timeDay": 367,
+    "timeWeek": 225,
+    "timeMonth": 208,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2022-06-24": 143
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/njk.dgw.ltd",
     "slug": "juckwonder",
     "status": "up",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.98%",
-    "time": 154,
-    "timeDay": 188,
-    "timeWeek": 192,
-    "timeMonth": 197,
-    "timeYear": 158,
+    "time": 155,
+    "timeDay": 340,
+    "timeWeek": 209,
+    "timeMonth": 201,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2022-06-30": 659,
       "2022-06-29": 1440,
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 214,
-    "timeDay": 338,
-    "timeWeek": 409,
-    "timeMonth": 313,
-    "timeYear": 237,
+    "time": 216,
+    "timeDay": 757,
+    "timeWeek": 436,
+    "timeMonth": 331,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2021-12-07": 67
     }
@@ -143,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1485,
-    "timeDay": 1522,
-    "timeWeek": 1502,
+    "timeDay": 1488,
+    "timeWeek": 1490,
     "timeMonth": 1488,
-    "timeYear": 1535,
+    "timeYear": 1536,
     "dailyMinutesDown": {}
   },
   {
@@ -161,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 105,
-    "timeWeek": 170,
-    "timeMonth": 145,
+    "timeDay": 172,
+    "timeWeek": 158,
+    "timeMonth": 143,
     "timeYear": 132,
     "dailyMinutesDown": {}
   }
