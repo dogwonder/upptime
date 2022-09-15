@@ -4,9 +4,9 @@
     "url": "https://www.richholman.com",
     "icon": "https://favicons.githubusercontent.com/www.richholman.com",
     "slug": "rich-holman",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 387,
     "timeMonth": 383,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "DGW.ltd - WordPress",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/wp.dgw.ltd",
     "slug": "dgw-ltd-word-press",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.46%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.13%",
     "time": 391,
     "timeDay": 389,
     "timeWeek": 305,
@@ -45,9 +47,9 @@
     "url": "https://seasonal.today/",
     "icon": "https://favicons.githubusercontent.com/seasonal.today",
     "slug": "seasonal-today",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -57,6 +59,7 @@
     "timeMonth": 232,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-06-24": 143
     }
   },
@@ -65,9 +68,9 @@
     "url": "https://njk.dgw.ltd",
     "icon": "https://favicons.githubusercontent.com/njk.dgw.ltd",
     "slug": "juckwonder",
-    "status": "up",
-    "uptime": "94.94%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.95%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.98%",
@@ -77,6 +80,7 @@
     "timeMonth": 215,
     "timeYear": 162,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-06-30": 659,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
@@ -119,9 +123,9 @@
     "url": "http://phonebox.photos/",
     "icon": "https://favicons.githubusercontent.com/phonebox.photos",
     "slug": "phonebox-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -131,6 +135,7 @@
     "timeMonth": 517,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2021-12-07": 67
     }
   },
@@ -157,9 +162,9 @@
     "url": "https://greenhill50.com/",
     "icon": "https://favicons.githubusercontent.com/greenhill50.com",
     "slug": "greenhill-50",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,6 +173,8 @@
     "timeWeek": 166,
     "timeMonth": 149,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
