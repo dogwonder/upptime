@@ -164,19 +164,19 @@
     "url": "https://greenhill50.com/",
     "icon": "https://icons.duckduckgo.com/ip3/greenhill50.com.ico",
     "slug": "greenhill-50",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 2680,
-    "timeWeek": 770,
-    "timeMonth": 305,
+    "timeDay": 1825,
+    "timeWeek": 697,
+    "timeMonth": 299,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-10-17": 0,
+      "2022-10-17": 8,
       "2022-09-15": 37
     }
   }
