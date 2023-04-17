@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 363,
-    "timeDay": 201,
-    "timeWeek": 354,
-    "timeMonth": 500,
+    "timeDay": 289,
+    "timeWeek": 337,
+    "timeMonth": 501,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2022-09-15": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 433,
-    "timeDay": 426,
-    "timeWeek": 508,
-    "timeMonth": 480,
+    "timeDay": 639,
+    "timeWeek": 547,
+    "timeMonth": 490,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2022-09-02": 782,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 209,
-    "timeDay": 72,
-    "timeWeek": 162,
-    "timeMonth": 266,
+    "timeDay": 188,
+    "timeWeek": 164,
+    "timeMonth": 267,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-09-15": 37,
@@ -69,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/njk.dgw.ltd.ico",
     "slug": "juckwonder",
     "status": "up",
-    "uptime": "96.18%",
+    "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.97%",
     "time": 205,
-    "timeDay": 605,
-    "timeWeek": 334,
-    "timeMonth": 301,
-    "timeYear": 226,
+    "timeDay": 93,
+    "timeWeek": 322,
+    "timeMonth": 300,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-09-15": 37,
       "2022-06-30": 659,
@@ -130,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 381,
-    "timeDay": 373,
-    "timeWeek": 537,
-    "timeMonth": 520,
-    "timeYear": 432,
+    "timeDay": 613,
+    "timeWeek": 531,
+    "timeMonth": 527,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2022-09-15": 37
     }
@@ -150,10 +150,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1544,
-    "timeDay": 1415,
-    "timeWeek": 1659,
-    "timeMonth": 1651,
-    "timeYear": 1559,
+    "timeDay": 2129,
+    "timeWeek": 1726,
+    "timeMonth": 1656,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2022-10-13": 21
     }
@@ -170,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 121,
-    "timeWeek": 134,
-    "timeMonth": 147,
+    "timeDay": 83,
+    "timeWeek": 123,
+    "timeMonth": 146,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2022-09-15": 37
