@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 370,
-    "timeDay": 539,
-    "timeWeek": 305,
-    "timeMonth": 336,
-    "timeYear": 405,
+    "timeDay": 589,
+    "timeWeek": 337,
+    "timeMonth": 340,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2022-09-15": 37
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 437,
-    "timeDay": 437,
-    "timeWeek": 527,
-    "timeMonth": 471,
+    "timeDay": 351,
+    "timeWeek": 477,
+    "timeMonth": 458,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2022-09-02": 782,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 214,
-    "timeDay": 257,
-    "timeWeek": 209,
-    "timeMonth": 199,
-    "timeYear": 226,
+    "time": 215,
+    "timeDay": 691,
+    "timeWeek": 243,
+    "timeMonth": 210,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-15": 37,
       "2022-06-24": 143
@@ -73,11 +73,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.06%",
+    "uptimeYear": "92.20%",
     "time": 215,
-    "timeDay": 186,
-    "timeWeek": 240,
-    "timeMonth": 268,
+    "timeDay": 243,
+    "timeWeek": 238,
+    "timeMonth": 263,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2022-09-15": 37,
@@ -108,8 +108,7 @@
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
-      "2022-06-03": 1440,
-      "2022-06-02": 1440
+      "2022-06-03": 1440
     }
   },
   {
@@ -123,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 405,
-    "timeDay": 852,
-    "timeWeek": 505,
-    "timeMonth": 480,
-    "timeYear": 457,
+    "time": 406,
+    "timeDay": 506,
+    "timeWeek": 475,
+    "timeMonth": 482,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2022-09-15": 37
     }
@@ -138,18 +137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccco.bike.ico",
     "slug": "ccco-bike",
     "status": "down",
-    "uptime": "99.84%",
+    "uptime": "99.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "99.61%",
-    "time": 1548,
-    "timeDay": 208,
-    "timeWeek": 1085,
-    "timeMonth": 1485,
-    "timeYear": 1570,
+    "uptimeWeek": "65.36%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "99.33%",
+    "time": 1545,
+    "timeDay": 469,
+    "timeWeek": 919,
+    "timeMonth": 1446,
+    "timeYear": 1567,
     "dailyMinutesDown": {
-      "2023-06-01": 14,
+      "2023-06-02": 11,
+      "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 600,
       "2022-10-13": 21
@@ -167,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 225,
-    "timeWeek": 127,
-    "timeMonth": 140,
+    "timeDay": 228,
+    "timeWeek": 142,
+    "timeMonth": 141,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-09-15": 37
