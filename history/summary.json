@@ -112,18 +112,19 @@
     "url": "http://phonebox.photos/",
     "icon": "https://icons.duckduckgo.com/ip3/phonebox.photos.ico",
     "slug": "phonebox-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 203,
-    "timeWeek": 265,
+    "timeDay": 272,
+    "timeWeek": 275,
     "timeMonth": 322,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-06-06": 22
     }
   },
